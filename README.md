@@ -1,49 +1,148 @@
-# 👋 Hi, I'm Madhurima
+<h1 align="center">Hi 👋, I'm Madhurima</h1>
 
-🎓 **Final Year Computer Science Engineering Student**
-
-💡 Passionate about Artificial Intelligence, Java, Full-Stack Development, and DevOps.
+<h3 align="center">Final Year Computer Science Engineering Student | Aspiring Software Developer | AI & DevOps Enthusiast</h3>
 
 ---
 
-## 💻 Technical Skills
+## 👩‍💻 About Me
 
+- 🎓 Final Year B.Tech Computer Science Engineering Student
+- 💻 Interested in Artificial Intelligence, Full-Stack Development, Java, and DevOps
+- 🌱 Currently learning Advanced Java, Spring Boot, and Cloud Technologies
+- 🚀 Passionate about building real-world software projects
+- 📚 Continuously improving my Data Structures & Algorithms skills
+- 📫 Reach me at: **your-email@example.com**
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 - Java
 - Python
-- HTML
-- CSS
+- C
 - JavaScript
-- SQL
-- Git & GitHub
+
+### Web Technologies
+- HTML5
+- CSS3
+- React (Basics)
+- Flask
+
+### Databases
+- MySQL
+
+### AI / Machine Learning
+- Natural Language Processing (NLP)
+- Language Detection
+- Machine Learning
+- Scikit-learn
+- Pandas
+- NumPy
+
+### DevOps & Tools
+- Git
+- GitHub
 - Jenkins
 - CI/CD
-- React
-- Spring Boot
+- Docker (Basics)
+- VS Code
+- PyCharm
+- Eclipse
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AI Question Answering System
-An intelligent question answering application built using AI and NLP techniques.
+## 🌍 Multilingual Language Detection
 
-### 🍽 Restaurant Order & Billing System
-Java-based object-oriented application for restaurant billing and order management.
+An AI-powered web application that detects the language of input text using Machine Learning and Natural Language Processing.
 
-### 🐶 Pet Adoption System
-A web application that helps users browse and adopt pets.
+**Technologies**
+- Python
+- Flask
+- HTML
+- CSS
+- Scikit-learn
+- Pandas
 
-### 📚 Java DSA
-Collection of Java programs covering Data Structures and Algorithms.
+**Features**
+- Detects multiple languages
+- User-friendly interface
+- Machine Learning model
+- Fast prediction
+- Real-time detection
+
+---
+
+## ⚙ Jenkins Backend
+
+Backend application integrated with Jenkins for Continuous Integration and automated deployment practices.
+
+**Technologies**
+- Java
+- Jenkins
+- Git
+- Maven
+
+---
+
+## 🔄 CI/CD Pipeline
+
+Implemented a Continuous Integration and Continuous Deployment pipeline to automate build and deployment processes.
+
+**Technologies**
+- Jenkins
+- GitHub
+- HTML
+- CI/CD
+
+---
+
+## 🛠 DevOps Practice
+
+Hands-on practice repository covering DevOps concepts including version control, automation, and deployment workflows.
+
+**Topics Covered**
+- Git
+- GitHub
+- Jenkins
+- Docker Basics
+- CI/CD Concepts
+
+---
+
+## 📚 Currently Learning
+
+- Spring Boot
+- REST APIs
+- Advanced Java
+- Data Structures & Algorithms
+- Docker
+- Kubernetes
+- AWS Basics
+
+---
+
+## 📈 GitHub Stats
+
+> GitHub automatically displays contribution graphs and repository activity on your profile.
+
+---
+
+## 🎯 Career Objective
+
+Seeking an entry-level Software Engineer or AI/ML Developer role where I can apply my programming skills, contribute to innovative projects, and continuously learn modern technologies.
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Madhurima32562
-- LinkedIn: *(Add your LinkedIn profile link)*
-- Email: *(Add your email)*
+- 💻 GitHub: https://github.com/Madhurima32562
+- 💼 LinkedIn: *(Add your LinkedIn profile link here)*
+- 📧 Email: *(Add your email here)*
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ Thank you for visiting my GitHub profile!
+If you like my projects, feel free to explore my repositories and connect with me.
