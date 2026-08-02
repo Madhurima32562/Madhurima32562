@@ -11,7 +11,7 @@
 - 🌱 Currently learning Advanced Java, Spring Boot, and Cloud Technologies
 - 🚀 Passionate about building real-world software projects
 - 📚 Continuously improving my Data Structures & Algorithms skills
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **madhurimasakamuri@gmail.com**
 
 ---
 
@@ -139,8 +139,8 @@ Seeking an entry-level Software Engineer or AI/ML Developer role where I can app
 ## 📫 Connect With Me
 
 - 💻 GitHub: https://github.com/Madhurima32562
-- 💼 LinkedIn: *(Add your LinkedIn profile link here)*
-- 📧 Email: *(Add your email here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/venkata-madhurima-sakamuri-2b6661366/
+- 📧 Email: madhurimasakamuri@gmail.com
 
 ---
 
