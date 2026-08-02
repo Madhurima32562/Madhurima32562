@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Madhurima
 
-<!--
-**Madhurima32562/Madhurima32562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final Year Computer Science Engineering Student**
 
-Here are some ideas to get you started:
+💡 Passionate about Artificial Intelligence, Java, Full-Stack Development, and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technical Skills
+
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+- Jenkins
+- CI/CD
+- React
+- Spring Boot
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Question Answering System
+An intelligent question answering application built using AI and NLP techniques.
+
+### 🍽 Restaurant Order & Billing System
+Java-based object-oriented application for restaurant billing and order management.
+
+### 🐶 Pet Adoption System
+A web application that helps users browse and adopt pets.
+
+### 📚 Java DSA
+Collection of Java programs covering Data Structures and Algorithms.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Madhurima32562
+- LinkedIn: *(Add your LinkedIn profile link)*
+- Email: *(Add your email)*
+
+---
+
+⭐ Thank you for visiting my profile!
